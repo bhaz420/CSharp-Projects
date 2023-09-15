@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PkEtrihRhd9kpZZ25y45z12dw70Kvw0YysefxpyAbSPlOB69J/lqkrWk7hYD4Afu/2JiLncJXFFDr4QYO8voeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brend\\OneDrive\\Documents\\GitHub\\CSharp-Projects\\Student DataBase\\Student DataBase\\Student DataBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brend\\.nuget\\packages\\entityframework.codetemplates.csharp\\6.2.0\\entityframework.codetemplates.csharp.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

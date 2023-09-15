@@ -1,0 +1,5 @@
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Student DataBase\Student DataBase\obj\Debug\net6.0\Student DataBase.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Student DataBase\Student DataBase\obj\Debug\net6.0\Student DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Student DataBase\Student DataBase\obj\Debug\net6.0\Student DataBase.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Student DataBase\Student DataBase\obj\Debug\net6.0\Student DataBase.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Student DataBase\Student DataBase\obj\Debug\net6.0\Student DataBase.csproj.CoreCompileInputs.cache

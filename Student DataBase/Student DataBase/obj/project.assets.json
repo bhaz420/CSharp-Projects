@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "EntityFramework.CodeTemplates.CSharp/6.2.0": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "EntityFramework.CodeTemplates.CSharp/6.2.0": {
+      "sha512": "3ukRyvhx2+bVrcHYyflGyZSCLeP86cAmhceQ2K/zEGSpuk6TYLUyWszTI7Jq5fM0YfDyf1bmbENWro1z43/K/A==",
+      "type": "package",
+      "path": "entityframework.codetemplates.csharp/6.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/net40/CodeTemplates/EFModelFromDatabase/Context.cs.t4",
+        "Content/net40/CodeTemplates/EFModelFromDatabase/EntityType.cs.t4",
+        "entityframework.codetemplates.csharp.6.2.0.nupkg.sha512",
+        "entityframework.codetemplates.csharp.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "EntityFramework.CodeTemplates.CSharp >= 6.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\brend\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\brend\\OneDrive\\Documents\\GitHub\\CSharp-Projects\\Student DataBase\\Student DataBase\\Student DataBase.csproj",
+      "projectName": "Student DataBase",
+      "projectPath": "C:\\Users\\brend\\OneDrive\\Documents\\GitHub\\CSharp-Projects\\Student DataBase\\Student DataBase\\Student DataBase.csproj",
+      "packagesPath": "C:\\Users\\brend\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brend\\OneDrive\\Documents\\GitHub\\CSharp-Projects\\Student DataBase\\Student DataBase\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "EntityFramework.CodeTemplates.CSharp": {
+            "target": "Package",
+            "version": "[6.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

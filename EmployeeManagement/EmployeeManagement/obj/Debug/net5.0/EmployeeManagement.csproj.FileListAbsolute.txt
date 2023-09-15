@@ -1,0 +1,5 @@
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.CoreCompileInputs.cache

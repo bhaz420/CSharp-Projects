@@ -1,0 +1,16 @@
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\obj\Debug\net5.0\Method Class Assign..csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\obj\Debug\net5.0\Method Class Assign..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\obj\Debug\net5.0\Method Class Assign..AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\obj\Debug\net5.0\Method Class Assign..AssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\obj\Debug\net5.0\Method Class Assign..csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\bin\Debug\net5.0\Method Class Assign..exe
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\bin\Debug\net5.0\Method Class Assign..deps.json
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\bin\Debug\net5.0\Method Class Assign..runtimeconfig.json
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\bin\Debug\net5.0\Method Class Assign..runtimeconfig.dev.json
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\bin\Debug\net5.0\Method Class Assign..dll
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\bin\Debug\net5.0\Method Class Assign..pdb
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\obj\Debug\net5.0\Method Class Assign..dll
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\obj\Debug\net5.0\refint\Method Class Assign..dll
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\obj\Debug\net5.0\Method Class Assign..pdb
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\obj\Debug\net5.0\Method Class Assign..genruntimeconfig.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\Method Class Assign\Method Class Assign\obj\Debug\net5.0\ref\Method Class Assign..dll

@@ -1,0 +1,16 @@
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\obj\Debug\net5.0\OperatorsAssign.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\obj\Debug\net5.0\OperatorsAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\obj\Debug\net5.0\OperatorsAssign.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\obj\Debug\net5.0\OperatorsAssign.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\obj\Debug\net5.0\OperatorsAssign.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\bin\Debug\net5.0\OperatorsAssign.exe
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\bin\Debug\net5.0\OperatorsAssign.deps.json
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\bin\Debug\net5.0\OperatorsAssign.runtimeconfig.json
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\bin\Debug\net5.0\OperatorsAssign.runtimeconfig.dev.json
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\bin\Debug\net5.0\OperatorsAssign.dll
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\bin\Debug\net5.0\OperatorsAssign.pdb
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\obj\Debug\net5.0\OperatorsAssign.dll
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\obj\Debug\net5.0\refint\OperatorsAssign.dll
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\obj\Debug\net5.0\OperatorsAssign.pdb
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\obj\Debug\net5.0\OperatorsAssign.genruntimeconfig.cache
+C:\Users\brend\OneDrive\Documents\GitHub\CSharp-Projects\OperatorsAssign\OperatorsAssign\obj\Debug\net5.0\ref\OperatorsAssign.dll
